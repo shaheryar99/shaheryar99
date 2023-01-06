@@ -5,6 +5,7 @@
 - 🌐 I have also had the pleasure of building fully functioning web servers utilizing Cloudflare through Apache, Nginx, MySQL, PostgreSQL, MariaDB, and PostFix, alongside many other open softwares available on Windows & Linux. 
 - 📫 You can reach me by email at shaheryar.syed@ucalgary.ca :)
 - Gitlab: https://gitlab.cpsc.ucalgary.ca/shaheryar.syed
+- Devpost: https://devpost.com/shaheryar99
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=shaheryar99&show_icons=true)
 

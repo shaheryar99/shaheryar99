@@ -6,10 +6,7 @@
 - 📫 You can reach me by email at shaheryar.syed@ucalgary.ca :)
 - Gitlab: https://gitlab.cpsc.ucalgary.ca/shaheryar.syed
 - Devpost: https://devpost.com/shaheryar99
-
-![github stats](https://github-readme-stats.vercel.app/api?username=shaheryar99&show_icons=true)
-
-<!---
+<---
 shaheryar99/shaheryar99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
